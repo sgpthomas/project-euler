@@ -21,7 +21,7 @@
 fn main() {
     println!("Largest Prime Factors");
 
-    let mut number = 600851475143;
+    let mut number = 100;
     let mut factors: Vec<u64> = vec![];
 
     loop {
