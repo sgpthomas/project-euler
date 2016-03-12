@@ -1,0 +1,6 @@
+[package]
+name = "even_fib"
+version = "0.1.0"
+authors = ["Sam Thomas <sgpthomas@gmail.com>"]
+
+[dependencies]

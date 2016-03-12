@@ -1,0 +1,6 @@
+[package]
+name = "largest_prime_factor"
+version = "0.1.0"
+authors = ["Sam Thomas <sgpthomas@gmail.com>"]
+
+[dependencies]
